@@ -18,7 +18,7 @@ jobs:
       - azure-acr/build-and-push-image:
           dockerfile: Dockerfile
           login-server-name: testsxt9aknchjo.azurecr.io
-          registry-name: TestSxT9aKncHJO
+          registry-name: TestSxT9aKncHJO1
           repo: simple-java-app
 
 workflows:
